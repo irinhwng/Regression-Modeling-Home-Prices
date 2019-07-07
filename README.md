@@ -2,7 +2,7 @@ Presentation Slide: https://docs.google.com/presentation/d/1phzle5SBAUBeMlTHaLtn
 
 ---
 
-# Project 2 - Ames Housing Data and Kaggle Challenge
+# Predicting Home Prices using Ames Housing Data 
 ---
 
 ## **Problem Statement**

@@ -92,7 +92,7 @@ Remember, this project is for Zillow (an online neighborhood real estate site). 
 
 ## **Recommendations**
 
-- It would be very helpful to get the appropriate interest rate during the time of the homebuyer purchasing the house. Personally, my mom doesn't want to sell our house in the valley since the interest rates are high. Factors like this plays a big role in home buying. So having an additional column of interest rates would have been very helpful. 
+- It would be very helpful to get the appropriate interest rate during the time of the homebuyer purchasing the house. Personally, I wouldn't want to buy a house when the interest rates are high. Factors like this plays a big role in home buying. So having an additional column of interest rates would have been very helpful. 
 ---
 
 ## **Sources**

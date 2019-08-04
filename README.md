@@ -71,7 +71,7 @@ Remember, this project is for Zillow (an online neighborhood real estate site). 
 - Since we are executing polynomial transformation and scaling our data, it is hard to pick certain features that'll effect the sale price of homes. 
 - But through our modeling steps, we can bring insight on how to create an effective model that can predict accrurately. 
 
-#### Results
+#### Results for Ridge Regression
 
 |Metric|Result|
 |---|---|
